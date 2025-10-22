@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "68f5ec702c36052ae1cd78a6"
+  },
+  "name": "John Doe",
+  "email": "john.doe@example.com",
+  "password": "$2a$10$7uoehynfNUI1boog5D6ewOD58u6bY0occk77fEzzI13d4N3Q86Se2",
+  "role": "admin",
+  "createdAt": "2024-01-15T08:00:00.000Z",
+  "updatedAt": "2024-01-15T08:00:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "68f5ec702c36052ae1cd78a7"
+  },
+  "name": "Jane Smith",
+  "email": "jane.smith@example.com",
+  "password": "$2a$10$7uoehynfNUI1boog5D6ewOD58u6bY0occk77fEzzI13d4N3Q86Se2",
+  "role": "user",
+  "createdAt": "2024-01-16T09:30:00.000Z",
+  "updatedAt": "2024-01-16T09:30:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "68f5ec702c36052ae1cd78a8"
+  },
+  "name": "Mike Johnson",
+  "email": "mike.johnson@example.com",
+  "password": "$2a$10$7uoehynfNUI1boog5D6ewOD58u6bY0occk77fEzzI13d4N3Q86Se2",
+  "role": "user",
+  "createdAt": "2024-01-17T10:15:00.000Z",
+  "updatedAt": "2024-01-17T10:15:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "68f5ec702c36052ae1cd78a9"
+  },
+  "name": "Sarah Wilson",
+  "email": "sarah.wilson@example.com",
+  "password": "$2a$10$7uoehynfNUI1boog5D6ewOD58u6bY0occk77fEzzI13d4N3Q86Se2",
+  "role": "user",
+  "createdAt": "2024-01-18T11:45:00.000Z",
+  "updatedAt": "2024-01-18T11:45:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "68f5ec702c36052ae1cd78aa"
+  },
+  "name": "David Brown",
+  "email": "david.brown@example.com",
+  "password": "$2a$10$7uoehynfNUI1boog5D6ewOD58u6bY0occk77fEzzI13d4N3Q86Se2",
+  "role": "user",
+  "createdAt": "2024-01-19T14:20:00.000Z",
+  "updatedAt": "2024-01-19T14:20:00.000Z"
+}]
